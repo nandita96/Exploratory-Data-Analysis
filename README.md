@@ -13,5 +13,20 @@ Python librarires "sqlalchemy" is used to made concention as SQLAlchemy consider
 
 ## Data visualization
 
-#### 1. Following clustered Bar Line chart displays possible working population and its education percent by nuts_iii in year 2011. It is a *dual axis-graph*.
-   ![](https://github.com/nandita96/Exploratory-Data-Analysis/blob/master/image_graph/Clustered_Bar_and_line_chart.PNG | width=100)
+#### 1. clustered Bar Line chart: Following clustered Bar Line chart displays possible working population and its industry employment percent by nuts_iii in year 2011. It is a *dual axis-graph*.
+<img src="image_graph/Clustered_Bar_and_line_chart2.PNG" width="800" height="400">
+
+#### 2. Area graph: displays total contribution across industries for 10 counties in year 2011.
+<img src="image_graph/Ares_Chart.PNG" width="800" height="400">
+
+#### 3. Stripplot: shows distribution of Degree and Post Graduation level across planning regions in year 2011.
+<img src="image_graph/strip_plot.PNG" width="800" height="400">
+
+#### 4. Pie chart:  displays total population percentage nuts_iii (Nomenclature of Territorial Units for Statistics) wise in year 2011.
+<img src="image_graph/explode_pie_chart.PNG" width="800" height="400">
+
+#### 5. Below Bar chart: displays total number of working and dependent persons nuts_iii wise in year 2011.
+<img src="image_graph/Vertical_Histogram_chart.PNG" width="800" height="400">
+
+#### 6. Nested Histogram:
+<img src="image_graph/inserted_histogram.PNG" width="800" height="400">
