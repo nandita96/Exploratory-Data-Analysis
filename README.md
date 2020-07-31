@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis
+# Exploratory-Data-Analysi
 This project does the exploratory Data Analysis on CSO (Central Statistics Office) data for Republic of Ireland.This project taking some important factors such as, Industrial employment numbers, education Metrics, population or census metrics and economic metrics to explore descriptive statistics and compute relationship among them. The power of visualization through Python libraries to depict relations and provide standalone counts and visualizations from mentioned metrics are performed in this repository. It covers all possible different aspects of visualization using Python. Used inbuilt libraries of python such as
 
 1. Seaborn (Heatmap, Voilinplot)
